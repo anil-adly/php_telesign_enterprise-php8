@@ -1,5 +1,5 @@
 {
-  "name": "telesign/telesignenterprise",
+  "name": "telesign-php8/telesignenterprise-8",
   "description": "TeleSign Enterprise SDK",
   "type": "library",
   "keywords": [
